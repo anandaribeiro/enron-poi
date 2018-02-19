@@ -422,7 +422,7 @@ of individuals classified as POIs. The recall is more important than the precisi
 The results of each step of the cross-validation of the final configuration of the algorithm are
 described in the table below.
 
-![Cross validation](Figures/validation_table.png)
+![Cross validation](Figures/validation_table.PNG)
 
 ### 3.5 Test of the new feature
 
